@@ -1,5 +1,7 @@
 clear
+
 %to generate number of active coordinators (number of business opp.) - test
+
 % S curve
 x = 1:1:200;
 fx = zeros(1,length(x));
